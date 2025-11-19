@@ -1,0 +1,42 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 54,
+  "EndLine": 54,
+  "StartColumn": 7,
+  "EndColumn": 46,
+  "Match": "token: 026d0caed93471b507ed460ebddbd096\r",
+  "Secret": "026d0caed93471b507ed460ebddbd096",
+  "File": "vulnerabilities/csrf/help/help.php",
+  "SymlinkFile": "",
+  "Commit": "63d9a118239614350a0a62927b8d1e36d6685473",
+  "Entropy": 3.5192475,
+  "Author": "Robin Wood",
+  "Email": "robin@digi.ninja",
+  "Date": "2021-11-19T17:36:34Z",
+  "Message": "Merge branch 'master' of github.com:digininja/DVWA\n\ncommit b124bd741ed959c88c4018e86e0cb7c39b325833\nAuthor: Robin Wood \u003crobin@digi.ninja\u003e\nDate:   Fri Nov 19 17:36:23 2021 +0000\n\nMore options at CSRF high level",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "63d9a118239614350a0a62927b8d1e36d6685473:vulnerabilities/csrf/help/help.php:generic-api-key:54"
+ },
+ {
+  "Description": "Generic API Key",
+  "StartLine": 41,
+  "EndLine": 41,
+  "StartColumn": 63,
+  "EndColumn": 108,
+  "Match": "key='6LelWk4UAAAAAGaBJWFusnIlAVoaCK8DWnRBDE4g'",
+  "Secret": "6LelWk4UAAAAAGaBJWFusnIlAVoaCK8DWnRBDE4g",
+  "File": "external/recaptcha/recaptchalib.php",
+  "SymlinkFile": "",
+  "Commit": "5ce2b495222960a379fc51f8e717ae0089a36c0e",
+  "Entropy": 4.5153117,
+  "Author": "Exhibitioner",
+  "Email": "x",
+  "Date": "2018-03-23T15:23:09Z",
+  "Message": "Fix Captcha.",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "5ce2b495222960a379fc51f8e717ae0089a36c0e:external/recaptcha/recaptchalib.php:generic-api-key:41"
+ }
+]
